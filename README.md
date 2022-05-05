@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## HTML Template
 
 You can use the [editor on GitHub](https://github.com/ramondara10/Email-Template/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
